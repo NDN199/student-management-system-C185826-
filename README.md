@@ -1,11 +1,11 @@
 # Student & Course Management System (C185826)
 
-## 📌 Project Overview
+##  Project Overview
 This is a full-stack web application developed for the Student Management System. The project demonstrates a **Microservices-style Architecture** by integrating two different backend frameworks and two separate database systems into a unified Angular frontend.
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 The application is built using three primary components:
 1.  **Frontend:** Angular (Standalone Components)
@@ -14,7 +14,7 @@ The application is built using three primary components:
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### **Frontend (Angular)**
 * **Framework:** Angular 17/18 (Standalone)
@@ -32,7 +32,7 @@ The application is built using three primary components:
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 * **Student Management:** Full CRUD operations using .NET and MSSQL.
 * **Course Management:** Full CRUD operations using Spring Boot and MySQL.
@@ -41,7 +41,7 @@ The application is built using three primary components:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 ├── backend/
